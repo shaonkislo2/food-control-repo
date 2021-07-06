@@ -1,11 +1,13 @@
 body {
   font-family: "Poppins", sans-serif;
 }
+
 table {
   width: 50%;
   margin-left: 400px;
   
 }
+
 table th {
   background-color: rgb(68, 68, 70);
   padding: 15px 30px;
@@ -18,12 +20,14 @@ table th {
   display: flex;
   margin-bottom: 100px;
 }
+
 .first-div-class {
   width: 50%;
 
   margin-left: 100px;
   font-weight: 100;
 }
+
 #stop-color {
   color: red;
 }
@@ -32,12 +36,15 @@ table th {
   margin-top: 50px;
   width: 100%;
 }
+
 #head-id {
   font-size: 80px;
 }
+
 p {
   font-size: 25px;
 }
+
 #first-link {
   text-decoration: none;
   padding: 20px 50px;
@@ -47,17 +54,22 @@ p {
   border-radius: 30px;
   font-size: 20px;
 }
+
 #second-secton {
   display: flex;
   background-image: url(images/shapes/Frame\ 59.jpg);
   margin-bottom: 100px;
+  border-radius: 30px;
 }
+
 .second-div-class {
   width: 50%;
 }
+
 #about-us-id {
   font-size: 50px;
 }
+
 #second-link {
   text-decoration: none;
   padding: 20px 50px;
@@ -67,22 +79,27 @@ p {
   border-radius: 30px;
   font-size: 20px;
 }
+
 #recipies-head-id {
   text-align: center;
   font-size: 40px;
 }
+
 #recipies-text-id {
   text-align: center;
   margin-left: 25%;
   margin-right: 25%;
   margin-bottom: 100px;
 }
+
 #third-section {
   margin-bottom: 100px;
 }
+
 #fourth-section {
   display: flex;
 }
+
 .food-item-div {
   width: 100%;
   margin-left: 5%;
@@ -93,40 +110,31 @@ p {
   padding-right: 30px;
   border-radius: 10px;
 }
+
 .food-item-div img {
   width: 100%;
 }
 
-
-
-
-
-
-#food-network-div {
+.food-network-div {
   text-align: center;
   background-color: rgb(31, 31, 32);
-  padding: 90px;
+  padding: 50px;
   color: white;
+  border-radius: 20px;
 }
+
 #food-id {
   color: yellow;
 }
+
 #network-id {
   color: rgb(6, 187, 127);
 }
+
 #head-network {
   font-size: 40px;
 }
 
 
 
-.communication-div{
-  width: 5%;
-  
-}
-.communication-div img{
-  width: 50%;
-}
-#fifth-section{
-  display: flex;
-}
+
