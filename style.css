@@ -1,0 +1,146 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+table {
+  width: 100%;
+  margin: 15px 15px 20px 15px;
+}
+table th {
+  background-color: rgb(93, 93, 214);
+  padding: 15px 30px;
+  color: white;
+  font-weight: 700;
+  border-radius: 10px;
+}
+
+#first-section {
+  display: flex;
+  margin-bottom: 100px;
+}
+.first-div-class {
+  width: 50%;
+
+  margin-left: 100px;
+  font-weight: 100;
+}
+#stop-color {
+  color: red;
+}
+
+.first-div-class img {
+  margin-top: 50px;
+  width: 100%;
+}
+#head-id {
+  font-size: 80px;
+}
+p {
+  font-size: 25px;
+}
+#first-link {
+  text-decoration: none;
+  padding: 20px 50px;
+  background-image: linear-gradient(rgb(107, 32, 19), tomato);
+  color: white;
+  font-weight: 700;
+  border-radius: 30px;
+  font-size: 20px;
+}
+#second-secton {
+  display: flex;
+  background-image: url(images/shapes/Frame\ 59.jpg);
+  margin-bottom: 100px;
+}
+.second-div-class {
+  width: 50%;
+}
+#about-us-id {
+  font-size: 50px;
+}
+#second-link {
+  text-decoration: none;
+  padding: 20px 50px;
+  background-image: linear-gradient(rgb(34, 224, 9), rgb(0, 20, 5));
+  color: white;
+  font-weight: 700;
+  border-radius: 30px;
+  font-size: 20px;
+}
+#recipies-head-id {
+  text-align: center;
+  font-size: 40px;
+}
+#recipies-text-id {
+  text-align: center;
+  margin-left: 25%;
+  margin-right: 25%;
+  margin-bottom: 100px;
+}
+#third-section {
+  margin-bottom: 100px;
+}
+#fourth-section {
+  display: flex;
+}
+.food-item-div {
+  width: 100%;
+  margin-left: 5%;
+  margin-right: 5%;
+  box-shadow: 10px 10px 40px rgb(70, 60, 60);
+  margin-bottom: 100px;
+  padding-left: 30px;
+  padding-right: 30px;
+  border-radius: 10px;
+}
+.food-item-div img {
+  width: 100%;
+}
+
+#fifth-section {
+  display: flex;
+  box-shadow: 10px 10px 40px rgb(78, 75, 71);
+  padding: 50px;
+  border-radius: 20px;
+  margin-bottom: 100px;
+  margin-left: 5%;
+  margin-right: 5%;
+  background-color: #3498db;
+}
+
+#gmail-id {
+  font-size: 40px;
+  text-align: center;
+}
+#youtube-id {
+  font-size: 40px;
+  text-align: center;
+}
+#fb-inst-id {
+  font-size: 40px;
+  text-align: center;
+}
+
+.communication-div {
+  width: 100%;
+  margin-left: 15%;
+}
+
+.communication-div img {
+  width: 100%;
+}
+
+#food-network-div {
+  text-align: center;
+  background-color: slateblue;
+  padding: 90px;
+  color: white;
+}
+#food-id {
+  color: rgb(202, 21, 21);
+}
+#network-id {
+  color: aquamarine;
+}
+#head-network {
+  font-size: 40px;
+}
