@@ -60,6 +60,7 @@ p {
   background-image: url(images/shapes/Frame\ 59.jpg);
   margin-bottom: 100px;
   border-radius: 30px;
+  padding: 20px;
 }
 
 .second-div-class {
@@ -67,7 +68,7 @@ p {
 }
 
 #about-us-id {
-  font-size: 50px;
+  font-size: 70px;
 }
 
 #second-link {
