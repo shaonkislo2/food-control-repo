@@ -2,11 +2,12 @@ body {
   font-family: "Poppins", sans-serif;
 }
 table {
-  width: 100%;
-  margin: 15px 15px 20px 15px;
+  width: 50%;
+  margin-left: 400px;
+  
 }
 table th {
-  background-color: rgb(93, 93, 214);
+  background-color: rgb(68, 68, 70);
   padding: 15px 30px;
   color: white;
   font-weight: 700;
