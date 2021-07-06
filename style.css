@@ -132,15 +132,15 @@ p {
 
 #food-network-div {
   text-align: center;
-  background-color: slateblue;
+  background-color: rgb(31, 31, 32);
   padding: 90px;
   color: white;
 }
 #food-id {
-  color: rgb(202, 21, 21);
+  color: yellow;
 }
 #network-id {
-  color: aquamarine;
+  color: rgb(6, 187, 127);
 }
 #head-network {
   font-size: 40px;
